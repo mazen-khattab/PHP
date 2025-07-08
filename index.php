@@ -23,5 +23,7 @@
 </html>
 
 <?php
-$a = $_GET["userName"]
+$number = rand();
+
+echo $number
 ?>
